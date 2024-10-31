@@ -1,0 +1,21 @@
+.onpreorder {
+	background: none;
+	font-weight: 700;
+	color: #72aee6;
+}
+.form-field input[type=datetime-local] {
+    float: left;
+}
+.available_date .form-row input[type=datetime-local] {
+    margin-bottom: 14px;
+}
+.item-meta-preorder {
+    display: block;
+    margin-top: .5em;
+    font-size: .92em !important;
+    color: #888;
+}
+/* Variable product */
+.pre-order-available-date-input {
+    margin-bottom: 54px;
+}

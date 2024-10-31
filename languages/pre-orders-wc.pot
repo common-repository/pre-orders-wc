@@ -1,0 +1,110 @@
+# Copyright (C) 2024 YoOhw.com
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Pre-Orders 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pre-orders-wc\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-23T08:14:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: pre-orders-wc\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Pre-Orders"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/pre-orders-wc/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Lets customers pre-order out-of-stock or upcoming products effortlessly."
+msgstr ""
+
+#. Author of the plugin
+msgid "YoOhw.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://yoohw.com"
+msgstr ""
+
+#: inc/backend/yopo-wc-pre-orders-edit-order.php:17
+msgid "Pre-order"
+msgstr ""
+
+#. translators: %s: the available date of the pre-order product
+#: inc/backend/yopo-wc-pre-orders-edit-order.php:21
+msgid "Available on %s"
+msgstr ""
+
+#: inc/backend/yopo-wc-pre-orders-product-stock-status.php:35
+msgid "On preorder"
+msgstr ""
+
+#: inc/backend/yopo-wc-pre-orders-product-stock-status.php:74
+#: inc/backend/yopo-wc-pre-orders-product-stock-status.php:106
+msgid "Available date"
+msgstr ""
+
+#: inc/backend/yopo-wc-pre-orders-product-stock-status.php:79
+msgid "The date and time when the product will be available for Pre-order."
+msgstr ""
+
+#: inc/backend/yopo-wc-pre-orders-product-stock-status.php:111
+msgid "The date and time when this variation will be available for Pre-order."
+msgstr ""
+
+#: inc/backend/yopo-wc-pre-orders-products.php:25
+msgid "Stock"
+msgstr ""
+
+#: inc/cores/yopo-wc-pre-orders-notices.php:25
+msgid "WC Pre-Orders requires WooCommerce to be installed and activated."
+msgstr ""
+
+#. translators: %s: the available date of the pre-order product
+#: inc/frontend/yopo-wc-pre-orders-cart.php:28
+msgid "Available on <strong>%s</strong>."
+msgstr ""
+
+#: inc/frontend/yopo-wc-pre-orders-product-list.php:25
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:51
+msgid "Pre-order now"
+msgstr ""
+
+#. translators: %s: the available date of the pre-order product
+#: inc/frontend/yopo-wc-pre-orders-product-list.php:42
+msgid "This item will be available on <strong>%s</strong>."
+msgstr ""
+
+#. translators: %s: the available date of the pre-order product
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:35
+msgid "Available for Pre-order<br>This item will be available on <strong>%s</strong>."
+msgstr ""
+
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:40
+msgid "Available for Pre-Order."
+msgstr ""
+
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:49
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:54
+msgid "Add to cart"
+msgstr ""
+
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:60
+msgid "Invalid request"
+msgstr ""
+
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:66
+msgid "Invalid nonce"
+msgstr ""
+
+#: inc/frontend/yopo-wc-pre-orders-single-product.php:77
+msgid "No stock status found"
+msgstr ""

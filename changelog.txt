@@ -1,0 +1,15 @@
+=== WooCommerce Pre-Orders (Free Version) ===
+
+= 1.0.2 (Oct 29, 2024) =
+* New: Added the available date and time in products list.
+* New: Added the `Pre-order` info at order table in order email notifications.
+* New: Added icons for the orders with the only or mixed product stock statuses.
+
+= 1.0.1 (Oct 23, 2024) =
+* New: Added time in the available date fields.
+* Improved: Changed the cron functions to automatically update product stock status.
+* Improved: Minor css updated.
+* Fixed: Variation available date cannot be saved.
+
+= 1.0.0 (Oct 21, 2024) =
+* First released.
